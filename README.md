@@ -1,5 +1,5 @@
 ## Hi there 👋
-### ¿como estas?
+
 <!--
 **charlyytos/charlyytos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
