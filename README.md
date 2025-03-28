@@ -10,6 +10,6 @@
 |   mkdir    | crea un nuevo directorio        | mkdir nueva_carpeta |
 |    rm      | elimina archivos o directorio   | rm archivo.txt |
 | git clone  | Clona un repositorio Git        | git clone URL |
-|    cd      | ambia de directorio             | git clone URL |
+|    cd      | cambia de directorio             | git clone URL |
 
 
