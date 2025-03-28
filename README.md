@@ -1,4 +1,4 @@
-## HOLA 👋
+## Hola 👋 me llamo * CARLOS  GARCIA * y quiero empezar en el mundo de la programacion, elegi este bootcamp por lo completo del mismo y que se usan herramientas modernas, estoy casado y tengo 3 gatos, tambien trabajo en una Empresa de Telecomunicaciones como Ejecutivo Comercial.
 
 <!--
 **charlyytos/charlyytos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
