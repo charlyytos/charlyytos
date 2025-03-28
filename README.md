@@ -4,5 +4,6 @@
 
 # LINUX COMANDS #
 
-| Comando     |   Descripcion    | ejemplos   de Uso |
-|------------|------------------|-------------------|
+| Comando     |   Descripcion                     | ejemplos   de Uso |
+|------------|----------------------------------|-------------------|
+|   ls       | lista archivos en un directorio |  cd /home/usuario |
