@@ -12,4 +12,7 @@
 | git clone  | Clona un repositorio Git        | git clone URL |
 |    cd      | cambia de directorio             | git clone URL |
 
+  #Alias relevantes para linux#
 
+  alias cls='clear' (Limpiar la terminal)
+  alias ~='cd ~'   (Ir al home rápidamente)
